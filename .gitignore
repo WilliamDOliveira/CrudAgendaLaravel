@@ -1,0 +1,7 @@
+# Ignorar arquivos especificos 
+myPrivateKey.key
+myPrivateKey_rsa
+myPublicKey.key
+myCert.pem
+#Ignorar Diretorio
+backup/**/*
